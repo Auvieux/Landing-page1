@@ -1,6 +1,6 @@
 ## Descripción
 
-Este es un portfolio creado con HTML, CSS, usando metodología BEM
+Este es un portfolio creado con HTML, CSS, usando metodología BvEM
 
 ## Autor -
 **Carlos Auvieux**
